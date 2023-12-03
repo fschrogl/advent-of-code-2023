@@ -1,4 +1,4 @@
-package at.schrogl.aoc2023.day02
+ package at.schrogl.aoc2023.day02
 
 class Day02 {
 

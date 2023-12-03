@@ -10,7 +10,7 @@ Source: https://adventofcode.com/
 |:-------------------------------------------------------------------|:------------|
 | [Day 01: Trebuchet?!](src/main/kotlin/at/schrogl/aoc2023/day01)    | [Day 14: -] |
 | [Day 02: Cube Conundrum](src/main/kotlin/at/schrogl/aoc2023/day02) | [Day 15: -] |
-| [Day 03: -]                                                        | [Day 16: -] |
+| [Day 03: Gear Ratios](src/main/kotlin/at/schrogl/aoc2023/day03)    | [Day 16: -] |
 | [Day 04: -]                                                        | [Day 17: -] |
 | [Day 05: -]                                                        | [Day 18: -] |
 | [Day 06: -]                                                        | [Day 19: -] |
