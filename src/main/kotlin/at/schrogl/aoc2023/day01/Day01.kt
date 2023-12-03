@@ -56,7 +56,7 @@ class Day01 {
         println(
             """
                     Day 01 :: Task 1
-                    input-task1-example.txt => ${computeTask1("input-task1-example.txt")}
+                    input-example.txt => ${computeTask1("input-example.txt")}
                     input.txt => ${computeTask1("input.txt")}
                     
                     Day 01 :: Task 2
